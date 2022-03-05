@@ -1,9 +1,11 @@
 # Note Taker
 An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
 
-### Github : https://github.com/Okingiboy/note-taker
+### Github : https://github.com/Okingiboy/note-taker-express-js-james
 
-### Deployed app : https://dashboard.heroku.com/apps/note-taker
+
+
+
 
 ## Description
 An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
